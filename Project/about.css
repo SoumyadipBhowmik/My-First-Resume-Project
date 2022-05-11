@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp2538527.jpg);
+    border: black;
+    border-width: 30px;
+}
+
+button{
+    padding: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+button:hover{
+    padding: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(255,197,0,255);
+    color: black;
+}
+main{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    padding-left: 200px;
+    padding-top: 122px;
+    padding-right: 500px;
+    color: aliceblue;

@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/5088964.jpg);
+}
+button{
+    padding: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+    border: 0px;
+    color: blanchedalmond;
+}
+button:hover{
+    padding: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    color: black;
+}
+h1{
+    color:blanchedalmond;
+}
+.foot2{
+    color: blanchedalmond;
+}
